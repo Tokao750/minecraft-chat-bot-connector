@@ -1,0 +1,6 @@
+websocket-uri: ws://localhost:8080
+chat-style: [blue, italic] # Style preview: http://derpcast.net/files/chatcolors.png
+prefix: <ChatBot>
+reconnect:
+  delay: 5000 # ms
+  attempts: 5

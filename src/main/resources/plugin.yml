@@ -1,0 +1,5 @@
+name: ChatBotConnector
+main: com.github.tokao750.minecraft.chatbotconnector.ChatBotConnectorPlugin
+version: 1.0.0
+description: Connects to a 3rd party chatbot via WebSocket
+api-version: 1.13
